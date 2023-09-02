@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando Front End<br>Estarei a procura de um estágio em breve<br>O mundo TEC é o meu ponto forte
+Estudando Front End<br>Estarei a procura de uma vaga em breve<br>O mundo TEC é o meu ponto forte
 
 
 ## 🌐 Socials:
